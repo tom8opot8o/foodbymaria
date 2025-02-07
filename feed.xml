@@ -1,30 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<content:encoded><![CDATA[
-    <recipe>
-        <title>Cheesy Cod Fish Balls</title>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
 
-        <pageLogo>
-            <url>https://www.foodbymaria.com/wp-content/uploads/2025/01/FoodByMaria-Logo.png</url>
-        </pageLogo>
+<channel>
+	<title>FoodByMaria</title>
+	<atom:link href="https://www.foodbymaria.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.foodbymaria.com/</link>
+	<description>Delicious Food for Everyone</description>
+	<lastBuildDate>Wed, 05 Feb 2025 21:58:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
 
-        <description>
-            <![CDATA[
-            You’ll find variations of Fish Balls in many places such as New England and Portugal.
-            This popular dish uses cod fillets, potatoes, and herbs to make a delicious protein-packed snack 
-            that can be served as an appetizer, side dish, or even a main course when paired with a few side dishes.
-            ]]>
-        </description>
+	<image>
+		<url>https://www.foodbymaria.com/wp-content/uploads/2023/11/cropped-favicon-32x32.png</url>
+		<title>FoodByMaria</title>
+		<link>https://www.foodbymaria.com/</link>
+		<width>32</width>
+		<height>32</height>
+	</image>
 
-        <featuredImage>
-            <url>https://www.foodbymaria.com/wp-content/uploads/2025/01/Fish-Balls-5-1440x1863.jpg</url>
-        </featuredImage>
-
-        <customTime>
-            <value>2 hours</value>
-        </customTime>
-
-        <servings>
-            <value>30-32 small cod fish balls</value>
-        </servings>
-    </recipe>
-]]></content:encoded>
+	<item>
+		<title>Cheesy Cod Fish Balls</title>
+		<link>https://www.foodbymaria.com/fish-balls/</link>
+		<dc:creator><![CDATA[Maria Koutsogiannis]]></dc:creator>
+		<pubDate>Fri, 31 Jan 2025 17:57:15 +0000</pubDate>
+		<guid isPermaLink="false">https://www.foodbymaria.com/?p=60231</guid>
+		<content:encoded><![CDATA[
+			<h1>Cheesy Cod Fish Balls</h1>
+			<img src="https://www.foodbymaria.com/wp-content/uploads/2023/11/cropped-favicon-32x32.png" alt="Logo"/>
+			<img src="https://www.foodbymaria.com/wp-content/uploads/2025/01/Fish-Balls-8-1440x1863.jpg" alt="Featured Image"/>
+			<p>Cooking Time: 1 hour</p>
+		]]></content:encoded>
+	</item>
+</channel>
+</rss>
