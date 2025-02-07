@@ -12,7 +12,7 @@
 	<atom:link href="https://www.foodbymaria.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.foodbymaria.com/</link>
 	<description>Delicious Food for Everyone</description>
-	<lastBuildDate>Wed, 05 Feb 2025 21:58:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 Feb 2025 12:03:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,7 +27,28 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
+		<item>
+		<title>Greek Olive Oil 101</title>
+		<link>https://www.foodbymaria.com/greek-olive-oil/</link>
+					<comments>https://www.foodbymaria.com/greek-olive-oil/#comments</comments>
+		
+		<dc:creator><![CDATA[https://www.foodbymaria.com/wp-content/uploads/2025/01/Roasted-Chickpea-Salad-2.jpg]]></dc:creator>
+		<pubDate>Fri, 06 Feb 2025 15:43:06 +0000</pubDate>
+				<category><![CDATA[All Recipes]]></category>
+		<category><![CDATA[Greek Recipes]]></category>
+		<guid isPermaLink="false">https://www.foodbymaria.com/?p=59016</guid>
+
+					<description><![CDATA[<p>If there is one necessity you&#8217;ll find in almost every kitchen, it&#8217;s an oil, more specifically, olive oil. Olive oils are a kitchen staple used in virtually any recipe you make. As a Greek, you know I always have a high-quality Greek Olive Oil on hand in my cupboard and reach for it daily. </p>
+<p>The post <a href="https://www.foodbymaria.com/greek-olive-oil/">Greek Olive Oil 101</a> appeared first on <a href="https://www.foodbymaria.com">FoodByMaria</a>.</p>
+]]></description>
+										<content:encoded></content:encoded>
+					
+					<wfw:commentRss>https://www.foodbymaria.com/greek-olive-oil/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Cheesy Cod Fish Balls</title>
 		<link>https://www.foodbymaria.com/fish-balls/</link>
 					<comments>https://www.foodbymaria.com/fish-balls/#respond</comments>
