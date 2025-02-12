@@ -1,16 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-  xmlns:recipe="https://schema.org/Recipe"
-	>
+  	xmlns:recipe="https://schema.org/Recipe"
+>
 
 <channel>
 	<title>FoodByMaria</title>
-	<atom:link href="https://www.foodbymaria.com/feed/" rel="self" type="application/rss+xml" />
+	<atom:link https://tom8opot8o.github.io/foodbymaria/altfeed.xml" rel="self" type="application/rss+xml" />
 	<link>https://www.foodbymaria.com/</link>
 	<description>Delicious Food for Everyone</description>
 	<lastBuildDate>Mon, 10 Feb 2025 13:24:32 +0000</lastBuildDate>
@@ -48,30 +49,6 @@
 					<description><![CDATA[<p>I love a good taco night! 🌮 Tacos are so easy to make, healthy, and versatile. I love that you can build your own and get even the pickiest of eaters on board with a taco night. These Steak Tacos are topped with juicy steak slices and melted cheese, and are the perfect tacos for [&#8230;]</p>
 <p>The post <a href="https://www.foodbymaria.com/steak-tacos/">Juicy Cheesy Steak Tacos</a> appeared first on <a href="https://www.foodbymaria.com">FoodByMaria</a>.</p>
 ]]></description>
-          <recipe:ingredients>
-        <recipe:ingredient amount="12">small corn tortillas</recipe:ingredient>
-        <recipe:ingredient amount="2 1/4" unit="cups">shredded Monterey Jack or mozzarella cheese</recipe:ingredient>
-
-        <recipe:ingredient-group name="Steak">
-            <recipe:ingredient amount="650-750g">thick-cut steak</recipe:ingredient>
-            <recipe:ingredient amount="1" unit="tsp">garlic powder</recipe:ingredient>
-            <recipe:ingredient amount="1" unit="tsp">kosher salt</recipe:ingredient>
-            <recipe:ingredient amount="1/2" unit="tsp">ground pepper</recipe:ingredient>
-            <recipe:ingredient amount="1" unit="tsp">onion powder</recipe:ingredient>
-            <recipe:ingredient amount="1" unit="tbsp">chili powder</recipe:ingredient>
-            <recipe:ingredient amount="1/2" unit="tsp">oregano</recipe:ingredient>
-            <recipe:ingredient amount="2" unit="tbsp">avocado oil</recipe:ingredient>
-            <recipe:ingredient amount="2" unit="tbsp">butter</recipe:ingredient>
-        </recipe:ingredient-group>
-
-        <recipe:ingredient-group name="Toppings">
-            <recipe:ingredient amount="3/4" unit="cup">sour cream</recipe:ingredient>
-            <recipe:ingredient>1 small white onion, finely chopped</recipe:ingredient>
-            <recipe:ingredient>Fresh cilantro, chopped</recipe:ingredient>
-            <recipe:ingredient>Green salsa or green hot sauce</recipe:ingredient>
-            <recipe:ingredient>Optional: avocado</recipe:ingredient>
-        </recipe:ingredient-group>
-    </recipe:ingredients>
 										<content:encoded><![CDATA[
 <p>I love a good taco night! 🌮 Tacos are so easy to make, healthy, and versatile. I love that you can build your own and get even the pickiest of eaters on board with a taco night. These Steak Tacos are topped with juicy steak slices and melted cheese, and are the perfect tacos for an easy weeknight meal for the family.</p>
 
