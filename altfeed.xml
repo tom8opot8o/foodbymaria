@@ -29,49 +29,45 @@
 	<height>32</height>
 </image> 
 <item>
-		<title>Juicy Cheesy Steak Tacos</title>
-		<link>https://www.foodbymaria.com/steak-tacos/</link>
-					<comments>https://www.foodbymaria.com/steak-tacos/#respond</comments>
-		
-		<dc:creator><![CDATA[https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-6-1440x1863.jpg]]></dc:creator>
-		<dc:subject><![CDATA[
-			    12 small corn tortillas
-			    2 1/4 cups shredded Monterey Jack or mozzarella cheese
-			    650-750g thick-cut steak
-			    1 tsp garlic powder
-			    1 tsp kosher salt
-			    1/2 tsp ground pepper
-			    1 tsp onion powder
-			    1 tbsp chili powder
-			    1/2 tsp oregano
-			    2 tbsp avocado oil
-			    2 tbsp butter
-			    3/4 cup sour cream
-			    1 small white onion, finely chopped
-			    Fresh cilantro, chopped
-			    Green salsa or green hot sauce
-			    Optional: avocado
-		]]></dc:subject>
-		<pubDate>Tue, 11 Feb 2025 13:20:56 +0000</pubDate>
-				<category><![CDATA[All Recipes]]></category>
-		<category><![CDATA[30 Minute Meals]]></category>
-		<category><![CDATA[Gluten Free]]></category>
-		<category><![CDATA[Main Dishes]]></category>
-		<category><![CDATA[Meat]]></category>
-		<category><![CDATA[10 Ingredients Or Less]]></category>
-		<category><![CDATA[Sandwiches, Burgers & Toasts]]></category>
-		<category><![CDATA[Kid Friendly]]></category>
-		<guid isPermaLink="false">https://www.foodbymaria.com/?p=61179</guid>
+    <title>Juicy Cheesy Steak Tacos</title>
+    <link>https://www.foodbymaria.com/steak-tacos/</link>
+    <comments>https://www.foodbymaria.com/steak-tacos/#respond</comments>
 
-					<description><![CDATA[<p>I love a good taco night! 🌮 Tacos are so easy to make, healthy, and versatile. I love that you can build your own and get even the pickiest of eaters on board with a taco night. These Steak Tacos are topped with juicy steak slices and melted cheese, and are the perfect tacos for an easy weeknight meal for the family.</p>
-<p>The post <a href="https://www.foodbymaria.com/steak-tacos/">Juicy Cheesy Steak Tacos</a> appeared first on <a href="https://www.foodbymaria.com">FoodByMaria</a>.</p>
-]]></description>
-										<content:encoded></content:encoded>
-					
-					<wfw:commentRss>https://www.foodbymaria.com/steak-tacos/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
+    <dc:creator><![CDATA[https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-6-1440x1863.jpg]]></dc:creator>
+    <pubDate>Mon, 10 Feb 2025 13:20:56 +0000</pubDate>
+    
+    <category><![CDATA[https://www.foodbymaria.com/wp-content/uploads/2025/02/tortilla-and-cheese.mp4]]></category>
+
+    <guid isPermaLink="false">https://www.foodbymaria.com/?p=61179</guid>
+
+    <description><![CDATA[<p>I love a good taco night! 🌮 Tacos are so easy to make, healthy, and versatile. I love that you can build your own and get even the pickiest of eaters on board with a taco night. These Steak Tacos are topped with juicy steak slices and melted cheese, and are the perfect tacos for an easy weeknight meal for the family.</p>]]></description>
+
+    <content:encoded><![CDATA[
+        <p>I love a good taco night! 🌮 Tacos are so easy to make, healthy, and versatile. I love that you can build your own and get even the pickiest of eaters on board with a taco night. These Steak Tacos are topped with juicy steak slices and melted cheese, and are the perfect tacos for an easy weeknight meal for the family.</p>
+
+        <p><strong>Ingredients:</strong></p>
+        <ul>
+            <li>12 small corn tortillas</li>
+            <li>2 1/4 cups shredded Monterey Jack or mozzarella cheese</li>
+            <li>650-750g thick cut steak</li>
+            <li>1 tsp garlic powder</li>
+            <li>1 tsp kosher salt</li>
+            <li>1/2 tsp ground pepper</li>
+            <li>1 tsp onion powder</li>
+            <li>1 tbsp chili powder</li>
+            <li>1/2 tsp oregano</li>
+            <li>2 tbsp avocado oil</li>
+            <li>2 tbsp butter</li>
+            <li>3/4 cup sour cream</li>
+            <li>1 small white onion, finely chopped</li>
+            <li>Fresh cilantro, chopped</li>
+            <li>Green salsa or green hot sauce for serving</li>
+            <li>Optional: Avocados</li>
+        </ul>
+    ]]></content:encoded>
+
+    <wfw:commentRss>https://www.foodbymaria.com/steak-tacos/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
+</item>
 	</channel>
 </rss>
