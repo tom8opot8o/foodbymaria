@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:recipe="https://schema.org/Recipe"
+	>
+
+<channel>
+	<title>FoodByMaria</title>
+	<atom:link href="https://www.foodbymaria.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.foodbymaria.com/</link>
+	<description>Delicious Food for Everyone</description>
+	<lastBuildDate>Mon, 10 Feb 2025 13:24:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.foodbymaria.com/wp-content/uploads/2023/11/cropped-favicon-32x32.png</url>
+	<title>FoodByMaria</title>
+	<link>https://www.foodbymaria.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Juicy Cheesy Steak Tacos</title>
+		<link>https://www.foodbymaria.com/steak-tacos/</link>
+					<comments>https://www.foodbymaria.com/steak-tacos/#respond</comments>
+		
+		<dc:creator><![CDATA[jessica]]></dc:creator>
+		<pubDate>Mon, 10 Feb 2025 13:20:56 +0000</pubDate>
+				<category><![CDATA[All Recipes]]></category>
+		<category><![CDATA[30 Minute Meals]]></category>
+		<category><![CDATA[Gluten Free]]></category>
+		<category><![CDATA[Main Dishes]]></category>
+		<category><![CDATA[Meat]]></category>
+		<category><![CDATA[10 Ingredients Or Less]]></category>
+		<category><![CDATA[Sandwiches, Burgers & Toasts]]></category>
+		<category><![CDATA[Kid Friendly]]></category>
+		<guid isPermaLink="false">https://www.foodbymaria.com/?p=61179</guid>
+
+					<description><![CDATA[<p>I love a good taco night! 🌮 Tacos are so easy to make, healthy, and versatile. I love that you can build your own and get even the pickiest of eaters on board with a taco night. These Steak Tacos are topped with juicy steak slices and melted cheese, and are the perfect tacos for [&#8230;]</p>
+<p>The post <a href="https://www.foodbymaria.com/steak-tacos/">Juicy Cheesy Steak Tacos</a> appeared first on <a href="https://www.foodbymaria.com">FoodByMaria</a>.</p>
+]]></description>
+          <recipe:ingredients>
+        <recipe:ingredient amount="12">small corn tortillas</recipe:ingredient>
+        <recipe:ingredient amount="2 1/4" unit="cups">shredded Monterey Jack or mozzarella cheese</recipe:ingredient>
+
+        <recipe:ingredient-group name="Steak">
+            <recipe:ingredient amount="650-750g">thick-cut steak</recipe:ingredient>
+            <recipe:ingredient amount="1" unit="tsp">garlic powder</recipe:ingredient>
+            <recipe:ingredient amount="1" unit="tsp">kosher salt</recipe:ingredient>
+            <recipe:ingredient amount="1/2" unit="tsp">ground pepper</recipe:ingredient>
+            <recipe:ingredient amount="1" unit="tsp">onion powder</recipe:ingredient>
+            <recipe:ingredient amount="1" unit="tbsp">chili powder</recipe:ingredient>
+            <recipe:ingredient amount="1/2" unit="tsp">oregano</recipe:ingredient>
+            <recipe:ingredient amount="2" unit="tbsp">avocado oil</recipe:ingredient>
+            <recipe:ingredient amount="2" unit="tbsp">butter</recipe:ingredient>
+        </recipe:ingredient-group>
+
+        <recipe:ingredient-group name="Toppings">
+            <recipe:ingredient amount="3/4" unit="cup">sour cream</recipe:ingredient>
+            <recipe:ingredient>1 small white onion, finely chopped</recipe:ingredient>
+            <recipe:ingredient>Fresh cilantro, chopped</recipe:ingredient>
+            <recipe:ingredient>Green salsa or green hot sauce</recipe:ingredient>
+            <recipe:ingredient>Optional: avocado</recipe:ingredient>
+        </recipe:ingredient-group>
+    </recipe:ingredients>
+										<content:encoded><![CDATA[
+<p>I love a good taco night! 🌮 Tacos are so easy to make, healthy, and versatile. I love that you can build your own and get even the pickiest of eaters on board with a taco night. These Steak Tacos are topped with juicy steak slices and melted cheese, and are the perfect tacos for an easy weeknight meal for the family.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1440" height="1863" src="https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-6-1440x1863.jpg" alt="Two hands holding a crispy tortilla with melted cheese pulled apart, showcasing the stretchy texture. The background includes blurred kitchen items, such as a bottle and small bowls, on a white countertop." class="wp-image-61201" srcset="https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-6-1440x1863.jpg 1440w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-6-450x582.jpg 450w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-6-768x994.jpg 768w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-6-1187x1536.jpg 1187w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-6-1583x2048.jpg 1583w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-6-225x291.jpg 225w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-6-100x129.jpg 100w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-6-150x194.jpg 150w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-6-scaled.jpg 1978w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
+
+
+
+<h2 class="wp-block-heading" id="h-why-you-ll-love-steak-tacos">❤️ Why You&#8217;ll Love Steak Tacos</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Flavorful: </strong>The juicy steak slices are seasoned with various spices to bring out the best flavors, and no taco is complete without some fresh cilantro on top!</li>
+
+
+
+<li><strong>Versatile: </strong>With tacos you can pick any toppings that you have in the fridge or that you prefer. It&#8217;s a great meal to get everyone involved in the kitchen to build their own taco with the ingredients they love.</li>
+
+
+
+<li><strong>Healthy: </strong>Tacos can be healthy! They have a protein source and are loaded with veggies that you add on top. </li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1440" height="1863" src="https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-3-1440x1863.jpg" alt="Close-up of sliced, cooked steak on a wooden board, with sauce being poured over the meat. The steak appears juicy and well-seasoned, with a blurred background suggesting a kitchen setting." class="wp-image-61205" srcset="https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-3-1440x1863.jpg 1440w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-3-450x582.jpg 450w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-3-768x994.jpg 768w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-3-1187x1536.jpg 1187w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-3-1583x2048.jpg 1583w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-3-225x291.jpg 225w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-3-100x129.jpg 100w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-3-150x194.jpg 150w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-3-scaled.jpg 1978w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
+
+
+
+<h2 class="wp-block-heading" id="h-ingredients">🍲 Ingredients</h2>
+
+
+
+<p><strong>Steak &#8211; </strong>Steak is such a good protein source that is filled with vitamins and nutrients to fuel you. Steak specifically is rich in B vitamins, iron, and zinc. The best part about steak (or beef) is its versatility. You can make sandwiches with it, throw it in a crock pot, grill it up, add it to salads, and the list goes on. </p>
+
+
+
+<p><strong>Green Salsa &#8211; </strong>Green salsa is made with tomatillos vs. regular, red tomatoes. This is what gives it the color! Green salsa adds a bright, tangy flavor to these Steak Tacos, adding a refreshing element to them that is so good. </p>
+
+
+
+<h2 class="wp-block-heading" id="h-how-to-make-steak-tacos">👩‍🍳 How to Make Steak Tacos</h2>
+
+
+
+<ol class="wp-block-list">
+<li>Preheat the oven to 400F.</li>
+
+
+
+<li>Prepare the corn tortillas. Line a large baking sheet with parchment paper and spread out 12 small tortillas. Add 3 tbsp shredded cheese to each tortilla, spreading it out onto the tortilla. Set aside.</li>
+
+
+
+<li>Finely chop the white onion and chop the cilantro. Set aside.</li>
+
+
+
+<li>Prepare the steak: Mix all of the steak seasonings together in a small bowl. Pat the steak dry on a cutting board and add the steak seasoning to each side, patting to press into the steak.</li>
+
+
+
+<li>Heat 2 tbsp avocado oil in a cast iron skillet over medium-high heat. When hot, place the steak in. Sear on both sides for about 2 minutes per side.</li>
+
+
+
+<li>Add the butter in and baste for 3-5 minutes, cooking until it reaches your desired temperature (Cook until internal temperature is 130-135 for medium rare-medium.) Or place in the oven to finish cooking to your desired temperature.</li>
+
+
+
+<li>Set the steak aside to rest for a few minutes while you melt the cheese on the tortillas. Place in the oven at 400F degrees for about 5 minutes to melt the cheese.</li>
+
+
+
+<li>Assemble the tacos by slicing the steak and add to the tacos along with chopped white onion, chopped cilantro, sour cream, and green salsa or green hot sauce. (Add avocado if desired). Serve immediately.</li>
+</ol>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1440" height="1440" src="https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-1440x1440.jpg" alt="A hand holding two tacos filled with grilled meat, topped with fresh cilantro, onions, and a drizzle of red sauce, wrapped in soft corn tortillas. The background is blurred, focusing on the flavorful tacos." class="wp-image-61195" srcset="https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-1440x1440.jpg 1440w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-450x450.jpg 450w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-150x150.jpg 150w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-768x768.jpg 768w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-1536x1536.jpg 1536w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-2048x2048.jpg 2048w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-225x225.jpg 225w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-100x100.jpg 100w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-500x500.jpg 500w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-300x300.jpg 300w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-400x400.jpg 400w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-600x600.jpg 600w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-96x96.jpg 96w" sizes="(max-width: 1440px) 100vw, 1440px" /></figure>
+
+
+
+<h2 class="wp-block-heading" id="h-nbsp-tips-and-tricks">🗒&nbsp;Tips and Tricks</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Toppings: </strong>You can top these tacos with whatever your heart desires! Anything goes with a taco night.</li>
+
+
+
+<li><strong>Steak: </strong>You can use any cut of beef for tacos, however, I recommend skirt steak, ribeye, or flank steak. These have great flavor and cook quickly.</li>
+
+
+
+<li><strong>Pairing: </strong>Serve these tacos with <a href="https://www.foodbymaria.com/how-to-make-guacamole/">Homemade Guacamole</a> and <a href="https://www.foodbymaria.com/pickled-jalapenos/">Pickled Jalapenos</a> for topping.</li>
+
+
+
+<li><strong>Marinate: </strong>If you have the time you can marinate the steak for 30 minutes to an hour to soak in the flavors. </li>
+
+
+
+<li><strong>Use the Grill: </strong>Grill the steak instead of pan-frying it if you prefer! </li>
+
+
+
+<li><strong>Against the Grain: </strong>Slice the steak against the grain. This helps with tenderness and makes it easier to bite through.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading" id="h-variations">🗒 Variations</h2>
+
+
+
+<p>There are endless possibilities when making tacos, but here are some variations </p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://www.foodbymaria.com/buffalo-chicken-tacos/">Buffalo Chicken Tacos</a></li>
+
+
+
+<li><a href="https://www.foodbymaria.com/chicken-taco-recipe/">Chicken Taco Recipe</a></li>
+
+
+
+<li><a href="https://www.foodbymaria.com/sheet-pan-steak-fajitas/">Sheet Pan Steak Fajitas</a></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading" id="h-best-served-with"><br>🗒 Best served with</h2>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://www.foodbymaria.com/pickled-jalapenos/">Pickled Jalapenos</a></li>
+
+
+
+<li><a href="https://www.foodbymaria.com/how-to-make-guacamole/">Homemade Guacamole</a> </li>
+
+
+
+<li><a href="https://www.foodbymaria.com/how-to-pickle-onions/">Pickled Onions</a></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading" id="h-how-to-store-leftovers">👝 How to Store Leftovers</h2>
+
+
+
+<p>These Steak Tacos are best enjoyed when made fresh but you can totally keep the toppings and steak separately, then make the tortillas with cheese when you&#8217;re ready to eat. Leftover steak is also great on salads or in bowls! </p>
+
+
+
+<h2 class="wp-block-heading" id="h-common-questions">🤔 Common Questions</h2>
+
+
+
+<div class="schema-faq wp-block-yoast-faq-block"><div class="schema-faq-section" id="faq-question-1691176017496"><strong class="schema-faq-question">Should I cook the steak whole or in pieces?</strong> <p class="schema-faq-answer">It’s best to cook the steak whole and slice it afterward. This helps keep the steak juicy and tender. After cooking, let it rest for a few minutes, then slice it thinly against the grain for the best texture.</p> </div> <div class="schema-faq-section" id="faq-question-1691176033318"><strong class="schema-faq-question">Are corn or flour tortillas better?</strong> <p class="schema-faq-answer">Either works great but corn tortillas are more authentic and I find add a great flavor. They can also be a great alternative for those with gluten sensitivities. </p> </div> <div class="schema-faq-section" id="faq-question-1738882336234"><strong class="schema-faq-question">Can I make the steak in advance?</strong> <p class="schema-faq-answer">100%! If you want to prep the meal, you can cook the steak. The steak is great cold or reheated. </p> </div> </div>
+
+
+<div id="recipe"></div><div id="wprm-recipe-container-61180" class="wprm-recipe-container" data-recipe-id="61180" data-servings="12"><div class="wprm-recipe wprm-recipe-template-basic"><div class="wprm-container-float-left">
+    <div class="wprm-recipe-image wprm-block-image-normal"><img decoding="async" style="border-width: 0px;border-style: solid;border-color: #666666;" width="150" height="150" src="https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-150x150.jpg" class="attachment-150x150 size-150x150" alt="A hand holding two tacos filled with grilled meat, topped with fresh cilantro, onions, and a drizzle of red sauce, wrapped in soft corn tortillas. The background is blurred, focusing on the flavorful tacos." srcset="https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-150x150.jpg 150w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-450x450.jpg 450w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-1440x1440.jpg 1440w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-768x768.jpg 768w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-1536x1536.jpg 1536w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-2048x2048.jpg 2048w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-225x225.jpg 225w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-100x100.jpg 100w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-500x500.jpg 500w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-300x300.jpg 300w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-400x400.jpg 400w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-600x600.jpg 600w, https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-96x96.jpg 96w" sizes="(max-width: 150px) 100vw, 150px" /></div>
+</div>
+<a href="https://www.foodbymaria.com/print-page/juicy-cheesy-steak-tacos" style="color: #333333;" class="wprm-recipe-print wprm-recipe-link wprm-print-recipe-shortcode wprm-block-text-normal" data-recipe-id="61180" data-template="" target="_blank" rel="nofollow"><span class="wprm-recipe-icon wprm-recipe-print-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 24 24"><g ><path fill="#333333" d="M19,5.09V1c0-0.552-0.448-1-1-1H6C5.448,0,5,0.448,5,1v4.09C2.167,5.569,0,8.033,0,11v7c0,0.552,0.448,1,1,1h4v4c0,0.552,0.448,1,1,1h12c0.552,0,1-0.448,1-1v-4h4c0.552,0,1-0.448,1-1v-7C24,8.033,21.833,5.569,19,5.09z M7,2h10v3H7V2z M17,22H7v-9h10V22z M18,10c-0.552,0-1-0.448-1-1c0-0.552,0.448-1,1-1s1,0.448,1,1C19,9.552,18.552,10,18,10z"/></g></svg></span> Print</a>
+
+<div class="wprm-spacer" style="height: 5px"></div>
+<h2 class="wprm-recipe-name wprm-block-text-bold">Juicy Cheesy Steak Tacos</h2>
+<style>#wprm-recipe-user-rating-0 .wprm-rating-star.wprm-rating-star-full svg * { fill: #343434; }#wprm-recipe-user-rating-0 .wprm-rating-star.wprm-rating-star-33 svg * { fill: url(#wprm-recipe-user-rating-0-33); }#wprm-recipe-user-rating-0 .wprm-rating-star.wprm-rating-star-50 svg * { fill: url(#wprm-recipe-user-rating-0-50); }#wprm-recipe-user-rating-0 .wprm-rating-star.wprm-rating-star-66 svg * { fill: url(#wprm-recipe-user-rating-0-66); }linearGradient#wprm-recipe-user-rating-0-33 stop { stop-color: #343434; }linearGradient#wprm-recipe-user-rating-0-50 stop { stop-color: #343434; }linearGradient#wprm-recipe-user-rating-0-66 stop { stop-color: #343434; }</style><svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" style="display:block;width:0px;height:0px"><defs><linearGradient id="wprm-recipe-user-rating-0-33"><stop offset="0%" stop-opacity="1" /><stop offset="33%" stop-opacity="1" /><stop offset="33%" stop-opacity="0" /><stop offset="100%" stop-opacity="0" /></linearGradient></defs><defs><linearGradient id="wprm-recipe-user-rating-0-50"><stop offset="0%" stop-opacity="1" /><stop offset="50%" stop-opacity="1" /><stop offset="50%" stop-opacity="0" /><stop offset="100%" stop-opacity="0" /></linearGradient></defs><defs><linearGradient id="wprm-recipe-user-rating-0-66"><stop offset="0%" stop-opacity="1" /><stop offset="66%" stop-opacity="1" /><stop offset="66%" stop-opacity="0" /><stop offset="100%" stop-opacity="0" /></linearGradient></defs></svg><style>#wprm-recipe-user-rating-0.wprm-user-rating-allowed.wprm-user-rating-not-voted:not(.wprm-user-rating-voting) svg * { fill-opacity: 0.3; }</style><div id="wprm-recipe-user-rating-0" class="wprm-recipe-rating wprm-recipe-rating-recipe-61180 wprm-user-rating wprm-user-rating-not-voted wprm-user-rating-allowed" data-recipe="61180" data-average="0" data-count="0" data-total="0" data-user="0" data-decimals="2"data-modal-uid="user-rating"><span class="wprm-rating-star wprm-rating-star-1 wprm-rating-star-empty" data-rating="1" data-color="#343434" role="button" tabindex="0" aria-label="Rate this recipe 1 out of 5 stars" onmouseenter="window.WPRecipeMaker.userRating.enter(this)" onfocus="window.WPRecipeMaker.userRating.enter(this)" onmouseleave="window.WPRecipeMaker.userRating.leave(this)" onblur="window.WPRecipeMaker.userRating.leave(this)" onclick="window.WPRecipeMaker.userRating.click(this, event)" onkeypress="window.WPRecipeMaker.userRating.click(this, event)" style="font-size: 1em;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 24 24"><g  transform="translate(0, 0)"><polygon fill="none" stroke="#343434" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke-linejoin="miter"/></g></svg></span><span class="wprm-rating-star wprm-rating-star-2 wprm-rating-star-empty" data-rating="2" data-color="#343434" role="button" tabindex="0" aria-label="Rate this recipe 2 out of 5 stars" onmouseenter="window.WPRecipeMaker.userRating.enter(this)" onfocus="window.WPRecipeMaker.userRating.enter(this)" onmouseleave="window.WPRecipeMaker.userRating.leave(this)" onblur="window.WPRecipeMaker.userRating.leave(this)" onclick="window.WPRecipeMaker.userRating.click(this, event)" onkeypress="window.WPRecipeMaker.userRating.click(this, event)" style="font-size: 1em;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 24 24"><g  transform="translate(0, 0)"><polygon fill="none" stroke="#343434" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke-linejoin="miter"/></g></svg></span><span class="wprm-rating-star wprm-rating-star-3 wprm-rating-star-empty" data-rating="3" data-color="#343434" role="button" tabindex="0" aria-label="Rate this recipe 3 out of 5 stars" onmouseenter="window.WPRecipeMaker.userRating.enter(this)" onfocus="window.WPRecipeMaker.userRating.enter(this)" onmouseleave="window.WPRecipeMaker.userRating.leave(this)" onblur="window.WPRecipeMaker.userRating.leave(this)" onclick="window.WPRecipeMaker.userRating.click(this, event)" onkeypress="window.WPRecipeMaker.userRating.click(this, event)" style="font-size: 1em;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 24 24"><g  transform="translate(0, 0)"><polygon fill="none" stroke="#343434" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke-linejoin="miter"/></g></svg></span><span class="wprm-rating-star wprm-rating-star-4 wprm-rating-star-empty" data-rating="4" data-color="#343434" role="button" tabindex="0" aria-label="Rate this recipe 4 out of 5 stars" onmouseenter="window.WPRecipeMaker.userRating.enter(this)" onfocus="window.WPRecipeMaker.userRating.enter(this)" onmouseleave="window.WPRecipeMaker.userRating.leave(this)" onblur="window.WPRecipeMaker.userRating.leave(this)" onclick="window.WPRecipeMaker.userRating.click(this, event)" onkeypress="window.WPRecipeMaker.userRating.click(this, event)" style="font-size: 1em;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 24 24"><g  transform="translate(0, 0)"><polygon fill="none" stroke="#343434" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke-linejoin="miter"/></g></svg></span><span class="wprm-rating-star wprm-rating-star-5 wprm-rating-star-empty" data-rating="5" data-color="#343434" role="button" tabindex="0" aria-label="Rate this recipe 5 out of 5 stars" onmouseenter="window.WPRecipeMaker.userRating.enter(this)" onfocus="window.WPRecipeMaker.userRating.enter(this)" onmouseleave="window.WPRecipeMaker.userRating.leave(this)" onblur="window.WPRecipeMaker.userRating.leave(this)" onclick="window.WPRecipeMaker.userRating.click(this, event)" onkeypress="window.WPRecipeMaker.userRating.click(this, event)" style="font-size: 1em;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 24 24"><g  transform="translate(0, 0)"><polygon fill="none" stroke="#343434" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="12,2.6 15,9 21.4,9 16.7,13.9 18.6,21.4 12,17.6 5.4,21.4 7.3,13.9 2.6,9 9,9 " stroke-linejoin="miter"/></g></svg></span></div>
+<div class="wprm-spacer" style="height: 5px"></div>
+<div class="wprm-recipe-summary wprm-block-text-normal"><span style="display: block;">These Steak Tacos are juicy, full of melted cheese, and can be made in only 30 minutes. These are great for a healthy meal that the whole family will love!</span></div>
+<div class="wprm-spacer"></div>
+<div class="wprm-recipe-meta-container wprm-recipe-tags-container wprm-recipe-details-container wprm-recipe-details-container-columns wprm-block-text-normal" style=""><div class="wprm-recipe-block-container wprm-recipe-block-container-columns wprm-block-text-normal wprm-recipe-tag-container wprm-recipe-course-container" style=""><span class="wprm-recipe-details-label wprm-block-text-bold wprm-recipe-tag-label wprm-recipe-course-label">Course </span><span class="wprm-recipe-course wprm-block-text-normal">Tacos</span></div><div class="wprm-recipe-block-container wprm-recipe-block-container-columns wprm-block-text-normal wprm-recipe-tag-container wprm-recipe-cuisine-container" style=""><span class="wprm-recipe-details-label wprm-block-text-bold wprm-recipe-tag-label wprm-recipe-cuisine-label">Cuisine </span><span class="wprm-recipe-cuisine wprm-block-text-normal">American-Inspired</span></div><div class="wprm-recipe-block-container wprm-recipe-block-container-columns wprm-block-text-normal wprm-recipe-tag-container wprm-recipe-keyword-container" style=""><span class="wprm-recipe-details-label wprm-block-text-bold wprm-recipe-tag-label wprm-recipe-keyword-label">Keyword </span><span class="wprm-recipe-keyword wprm-block-text-normal">steak</span></div></div>
+<div class="wprm-spacer"></div>
+<div class="wprm-recipe-meta-container wprm-recipe-times-container wprm-recipe-details-container wprm-recipe-details-container-columns wprm-block-text-normal" style=""><div class="wprm-recipe-block-container wprm-recipe-block-container-columns wprm-block-text-normal wprm-recipe-time-container wprm-recipe-prep-time-container" style=""><span class="wprm-recipe-details-label wprm-block-text-bold wprm-recipe-time-label wprm-recipe-prep-time-label">Prep Time </span><span class="wprm-recipe-time wprm-block-text-normal"><span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-prep_time wprm-recipe-prep_time-minutes">10<span class="sr-only screen-reader-text wprm-screen-reader-text"> minutes</span></span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-prep_time-unit wprm-recipe-prep_timeunit-minutes" aria-hidden="true">minutes</span></span></div><div class="wprm-recipe-block-container wprm-recipe-block-container-columns wprm-block-text-normal wprm-recipe-time-container wprm-recipe-cook-time-container" style=""><span class="wprm-recipe-details-label wprm-block-text-bold wprm-recipe-time-label wprm-recipe-cook-time-label">Cook Time </span><span class="wprm-recipe-time wprm-block-text-normal"><span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-cook_time wprm-recipe-cook_time-minutes">20<span class="sr-only screen-reader-text wprm-screen-reader-text"> minutes</span></span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-cook_time-unit wprm-recipe-cook_timeunit-minutes" aria-hidden="true">minutes</span></span></div><div class="wprm-recipe-block-container wprm-recipe-block-container-columns wprm-block-text-normal wprm-recipe-time-container wprm-recipe-total-time-container" style=""><span class="wprm-recipe-details-label wprm-block-text-bold wprm-recipe-time-label wprm-recipe-total-time-label">Total Time </span><span class="wprm-recipe-time wprm-block-text-normal"><span class="wprm-recipe-details wprm-recipe-details-minutes wprm-recipe-total_time wprm-recipe-total_time-minutes">30<span class="sr-only screen-reader-text wprm-screen-reader-text"> minutes</span></span> <span class="wprm-recipe-details-unit wprm-recipe-details-minutes wprm-recipe-total_time-unit wprm-recipe-total_timeunit-minutes" aria-hidden="true">minutes</span></span></div></div>
+<div class="wprm-spacer"></div>
+<div class="wprm-recipe-block-container wprm-recipe-block-container-columns wprm-block-text-normal wprm-recipe-servings-container" style=""><span class="wprm-recipe-details-label wprm-block-text-bold wprm-recipe-servings-label">Servings </span><span class="wprm-recipe-servings-with-unit"><span class="wprm-recipe-servings wprm-recipe-details wprm-recipe-servings-61180 wprm-recipe-servings-adjustable-tooltip wprm-block-text-normal" data-recipe="61180" aria-label="Adjust recipe servings">12</span> <span class="wprm-recipe-servings-unit wprm-recipe-details-unit wprm-block-text-normal">tacos</span></span></div>
+<div class="wprm-recipe-block-container wprm-recipe-block-container-columns wprm-block-text-normal wprm-recipe-nutrition-container wprm-recipe-calories-container" style=""><span class="wprm-recipe-details-label wprm-block-text-bold wprm-recipe-nutrition-label wprm-recipe-calories-label">Calories </span><span class="wprm-recipe-nutrition-with-unit"><span class="wprm-recipe-details wprm-recipe-nutrition wprm-recipe-calories wprm-block-text-normal">289</span><span class="wprm-recipe-details-unit wprm-recipe-nutrition-unit wprm-recipe-calories-unit wprm-block-text-normal">kcal</span></span></div>
+
+
+
+<div class="wprm-recipe-ingredients-container wprm-recipe-ingredients-no-images wprm-recipe-61180-ingredients-container wprm-block-text-normal wprm-ingredient-style-regular wprm-recipe-images-before" data-recipe="61180" data-servings="12"><h3 class="wprm-recipe-header wprm-recipe-ingredients-header wprm-block-text-bold wprm-align-left wprm-header-decoration-none" style="">Ingredients</h3><div class="wprm-recipe-ingredient-group"><ul class="wprm-recipe-ingredients"><li class="wprm-recipe-ingredient" style="list-style-type: disc;" data-uid="10"><span class="wprm-recipe-ingredient-amount">12</span>&#32;<span class="wprm-recipe-ingredient-name">small corn tortillas</span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;" data-uid="11"><span class="wprm-recipe-ingredient-amount">2 1/4</span>&#32;<span class="wprm-recipe-ingredient-unit">cups</span>&#32;<span class="wprm-recipe-ingredient-name">shredded monterey jack cheese or mozzarella cheese or mix of both</span></li></ul></div><div class="wprm-recipe-ingredient-group"><h4 class="wprm-recipe-group-name wprm-recipe-ingredient-group-name wprm-block-text-bold">For the steak</h4><ul class="wprm-recipe-ingredients"><li class="wprm-recipe-ingredient" style="list-style-type: disc;" data-uid="1"><span class="wprm-recipe-ingredient-amount">650-750</span>&#32;<span class="wprm-recipe-ingredient-unit">g</span>&#32;<span class="wprm-recipe-ingredient-name">(about 1 ½ lbs) thick cut steak</span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;" data-uid="2"><span class="wprm-recipe-ingredient-amount">1</span>&#32;<span class="wprm-recipe-ingredient-unit">tsp</span>&#32;<span class="wprm-recipe-ingredient-name"><a href="https://amzn.to/3Ysrql7" class="wprm-recipe-ingredient-link" rel="nofollow">garlic powder</a></span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;" data-uid="3"><span class="wprm-recipe-ingredient-amount">1</span>&#32;<span class="wprm-recipe-ingredient-unit">tsp</span>&#32;<span class="wprm-recipe-ingredient-name"><a href="https://amzn.to/3OP9zjN" class="wprm-recipe-ingredient-link" rel="nofollow">kosher salt</a></span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;" data-uid="4"><span class="wprm-recipe-ingredient-amount">1/2</span>&#32;<span class="wprm-recipe-ingredient-unit">tsp</span>&#32;<span class="wprm-recipe-ingredient-name"><a href="https://amzn.to/47PpI1p" class="wprm-recipe-ingredient-link" rel="nofollow">ground pepper</a></span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;" data-uid="5"><span class="wprm-recipe-ingredient-amount">1</span>&#32;<span class="wprm-recipe-ingredient-unit">tsp</span>&#32;<span class="wprm-recipe-ingredient-name"><a href="https://amzn.to/451phz6" class="wprm-recipe-ingredient-link" rel="nofollow">onion powder</a></span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;" data-uid="6"><span class="wprm-recipe-ingredient-amount">1</span>&#32;<span class="wprm-recipe-ingredient-unit">tbsp</span>&#32;<span class="wprm-recipe-ingredient-name"><a href="https://foodbymaria.jupiter.shop/single-product-selection/980dbb3f-ff60-4f57-ad27-13705832b2fe" class="wprm-recipe-ingredient-link" rel="nofollow">chili powder</a></span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;" data-uid="7"><span class="wprm-recipe-ingredient-amount">1/2</span>&#32;<span class="wprm-recipe-ingredient-unit">tsp</span>&#32;<span class="wprm-recipe-ingredient-name"><a href="https://foodbymaria.jupiter.shop/single-product-selection/154d0054-41f6-49ea-8da3-793802934023" class="wprm-recipe-ingredient-link" rel="nofollow">oregano</a></span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;" data-uid="8"><span class="wprm-recipe-ingredient-amount">2</span>&#32;<span class="wprm-recipe-ingredient-unit">tbsp</span>&#32;<span class="wprm-recipe-ingredient-name"><a href="https://amzn.to/456fIPs" class="wprm-recipe-ingredient-link" rel="nofollow">avocado oil</a></span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;" data-uid="9"><span class="wprm-recipe-ingredient-amount">2</span>&#32;<span class="wprm-recipe-ingredient-unit">tbsp</span>&#32;<span class="wprm-recipe-ingredient-name"><a href="https://foodbymaria.jupiter.shop/single-product-selection/55306118-32f4-4bcd-a345-6b9afd0443a8" class="wprm-recipe-ingredient-link" rel="nofollow">butter</a></span></li></ul></div><div class="wprm-recipe-ingredient-group"><h4 class="wprm-recipe-group-name wprm-recipe-ingredient-group-name wprm-block-text-bold">Toppings</h4><ul class="wprm-recipe-ingredients"><li class="wprm-recipe-ingredient" style="list-style-type: disc;" data-uid="13"><span class="wprm-recipe-ingredient-amount">3/4</span>&#32;<span class="wprm-recipe-ingredient-unit">cup</span>&#32;<span class="wprm-recipe-ingredient-name"><a href="https://foodbymaria.jupiter.shop/single-product-selection/43e78b4f-d921-4eb7-bea8-741663d314e6" class="wprm-recipe-ingredient-link" rel="nofollow">sour cream</a></span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;" data-uid="14"><span class="wprm-recipe-ingredient-amount">1</span>&#32;<span class="wprm-recipe-ingredient-name">small white onion, finely chopped</span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;" data-uid="15"><span class="wprm-recipe-ingredient-name"><a href="https://foodbymaria.jupiter.shop/single-product-selection/03819f04-c162-4f1a-9cdf-965b9d5905f3" class="wprm-recipe-ingredient-link" rel="nofollow">fresh cilantro, chopped </a></span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;" data-uid="16"><span class="wprm-recipe-ingredient-name">green salsa or green hot sauce for serving</span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;" data-uid="17"><span class="wprm-recipe-ingredient-name">optional: avocados</span></li></ul></div></div>
+<div class="wprm-recipe-instructions-container wprm-recipe-61180-instructions-container wprm-block-text-normal" data-recipe="61180"><h3 class="wprm-recipe-header wprm-recipe-instructions-header wprm-block-text-bold wprm-align-left wprm-header-decoration-none" style="">Instructions</h3><div class="wprm-recipe-instruction-group"><ul class="wprm-recipe-instructions"><li id="wprm-recipe-61180-step-0-0" class="wprm-recipe-instruction" style="list-style-type: decimal;"><div class="wprm-recipe-instruction-text" style="margin-bottom: 5px;"><span style="display: block;">Preheat the oven to 400F.</span></div></li><li id="wprm-recipe-61180-step-0-1" class="wprm-recipe-instruction" style="list-style-type: decimal;"><div class="wprm-recipe-instruction-text" style="margin-bottom: 5px;"><span style="display: block;">Prepare the corn tortillas. Line a large baking sheet with parchment paper and spread out 12 small tortillas. Add 3 tbsp shredded cheese to each tortilla, spreading it out onto the tortilla. Set aside.</span></div><div class="wprm-recipe-instruction-media wprm-recipe-instruction-video"><div style="width: 1920px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-61179-1" width="1920" height="1080" preload="metadata" controls="controls"><source type="video/mp4" src="https://www.foodbymaria.com/wp-content/uploads/2025/02/tortilla-and-cheese.mp4?_=1" /><a href="https://www.foodbymaria.com/wp-content/uploads/2025/02/tortilla-and-cheese.mp4">https://www.foodbymaria.com/wp-content/uploads/2025/02/tortilla-and-cheese.mp4</a></video></div></div> </li><li id="wprm-recipe-61180-step-0-2" class="wprm-recipe-instruction" style="list-style-type: decimal;"><div class="wprm-recipe-instruction-text" style="margin-bottom: 5px;"><span style="display: block;">Finely chop the white onion and chop the cilantro. Set aside.</span></div></li><li id="wprm-recipe-61180-step-0-3" class="wprm-recipe-instruction" style="list-style-type: decimal;"><div class="wprm-recipe-instruction-text" style="margin-bottom: 5px;"><span style="display: block;">Prepare the steak: Mix all of the steak seasonings together in a small bowl. Pat the steak dry on a cutting board and add the steak seasoning to each side, patting to press into the steak.</span></div><div class="wprm-recipe-instruction-media wprm-recipe-instruction-video"><div style="width: 1920px;" class="wp-video"><video class="wp-video-shortcode" id="video-61179-2" width="1920" height="1080" preload="metadata" controls="controls"><source type="video/mp4" src="https://www.foodbymaria.com/wp-content/uploads/2025/02/seasoning.mp4?_=2" /><a href="https://www.foodbymaria.com/wp-content/uploads/2025/02/seasoning.mp4">https://www.foodbymaria.com/wp-content/uploads/2025/02/seasoning.mp4</a></video></div></div> </li><li id="wprm-recipe-61180-step-0-4" class="wprm-recipe-instruction" style="list-style-type: decimal;"><div class="wprm-recipe-instruction-text" style="margin-bottom: 5px;"><span style="display: block;">Heat 2 tbsp avocado oil in a cast iron skillet over medium-high heat. When hot, place the steak in. Sear on both sides for about 2 minutes per side.</span></div><div class="wprm-recipe-instruction-media wprm-recipe-instruction-video"><div style="width: 1920px;" class="wp-video"><video class="wp-video-shortcode" id="video-61179-3" width="1920" height="1080" preload="metadata" controls="controls"><source type="video/mp4" src="https://www.foodbymaria.com/wp-content/uploads/2025/02/place-the-steak.mp4?_=3" /><a href="https://www.foodbymaria.com/wp-content/uploads/2025/02/place-the-steak.mp4">https://www.foodbymaria.com/wp-content/uploads/2025/02/place-the-steak.mp4</a></video></div></div> </li><li id="wprm-recipe-61180-step-0-5" class="wprm-recipe-instruction" style="list-style-type: decimal;"><div class="wprm-recipe-instruction-text" style="margin-bottom: 5px;"><span style="display: block;">Add the butter in and baste for 3-5 minutes, cooking until it reaches your desired temperature (Cook until internal temperature is 130-135 for medium rare-medium.) Or place in the oven to finish cooking to your desired temperature.</span></div><div class="wprm-recipe-instruction-media wprm-recipe-instruction-video"><div style="width: 1920px;" class="wp-video"><video class="wp-video-shortcode" id="video-61179-4" width="1920" height="1080" preload="metadata" controls="controls"><source type="video/mp4" src="https://www.foodbymaria.com/wp-content/uploads/2025/02/baste-steak.mp4?_=4" /><a href="https://www.foodbymaria.com/wp-content/uploads/2025/02/baste-steak.mp4">https://www.foodbymaria.com/wp-content/uploads/2025/02/baste-steak.mp4</a></video></div></div> </li><li id="wprm-recipe-61180-step-0-6" class="wprm-recipe-instruction" style="list-style-type: decimal;"><div class="wprm-recipe-instruction-text" style="margin-bottom: 5px;"><span style="display: block;">Set the steak aside to rest for a few minutes while you melt the cheese on the tortillas. Place in the oven at 400F degrees for about 5 minutes to melt the cheese.</span></div><div class="wprm-recipe-instruction-media wprm-recipe-instruction-video"><div style="width: 1920px;" class="wp-video"><video class="wp-video-shortcode" id="video-61179-5" width="1920" height="1080" preload="metadata" controls="controls"><source type="video/mp4" src="https://www.foodbymaria.com/wp-content/uploads/2025/02/set-the-steak-aside.mp4?_=5" /><a href="https://www.foodbymaria.com/wp-content/uploads/2025/02/set-the-steak-aside.mp4">https://www.foodbymaria.com/wp-content/uploads/2025/02/set-the-steak-aside.mp4</a></video></div></div> </li><li id="wprm-recipe-61180-step-0-7" class="wprm-recipe-instruction" style="list-style-type: decimal;"><div class="wprm-recipe-instruction-text" style="margin-bottom: 5px;"><span style="display: block;">Assemble the tacos by slicing the steak and add to the tacos along with chopped white onion, chopped cilantro, sour cream, and green salsa or green hot sauce. (Add avocado if desired). Serve immediately.</span></div><div class="wprm-recipe-instruction-media wprm-recipe-instruction-video"><div style="width: 1920px;" class="wp-video"><video class="wp-video-shortcode" id="video-61179-6" width="1920" height="1080" preload="metadata" controls="controls"><source type="video/mp4" src="https://www.foodbymaria.com/wp-content/uploads/2025/02/preparesteak.mp4?_=6" /><a href="https://www.foodbymaria.com/wp-content/uploads/2025/02/preparesteak.mp4">https://www.foodbymaria.com/wp-content/uploads/2025/02/preparesteak.mp4</a></video></div></div> </li></ul></div></div>
+<div id="recipe-video"></div>
+<div class="wprm-recipe-notes-container wprm-block-text-normal"><h3 class="wprm-recipe-header wprm-recipe-notes-header wprm-block-text-bold wprm-align-left wprm-header-decoration-none" style="">Notes</h3><div class="wprm-recipe-notes"><ul>
+<li>This tacos are very versatile! Use your favourite toppings as you see fit.</li>
+<li>If you love this recipe, try <a href="https://www.foodbymaria.com/sheet-pan-steak-fajitas/" target="_blank" rel="noopener">Sheet Pan Steak Fajitas</a></li>
+</ul></div></div>
+<h3 class="wprm-recipe-header wprm-recipe-nutrition-header wprm-block-text-bold wprm-align-left wprm-header-decoration-none" style="">Nutrition</h3><div class="wprm-nutrition-label-container wprm-nutrition-label-container-simple wprm-block-text-normal" style="text-align: left;"><span class="wprm-nutrition-label-text-nutrition-container wprm-nutrition-label-text-nutrition-container-calories"><span class="wprm-nutrition-label-text-nutrition-label  wprm-block-text-normal" style="color: #777777">Calories: </span><span class="wprm-nutrition-label-text-nutrition-value" style="color: #333333">289</span><span class="wprm-nutrition-label-text-nutrition-unit" style="color: #333333">kcal</span></span><span style="color: #777777"> | </span><span class="wprm-nutrition-label-text-nutrition-container wprm-nutrition-label-text-nutrition-container-carbohydrates"><span class="wprm-nutrition-label-text-nutrition-label  wprm-block-text-normal" style="color: #777777">Carbohydrates: </span><span class="wprm-nutrition-label-text-nutrition-value" style="color: #333333">13.2</span><span class="wprm-nutrition-label-text-nutrition-unit" style="color: #333333">g</span></span><span style="color: #777777"> | </span><span class="wprm-nutrition-label-text-nutrition-container wprm-nutrition-label-text-nutrition-container-protein"><span class="wprm-nutrition-label-text-nutrition-label  wprm-block-text-normal" style="color: #777777">Protein: </span><span class="wprm-nutrition-label-text-nutrition-value" style="color: #333333">20.3</span><span class="wprm-nutrition-label-text-nutrition-unit" style="color: #333333">g</span></span><span style="color: #777777"> | </span><span class="wprm-nutrition-label-text-nutrition-container wprm-nutrition-label-text-nutrition-container-fat"><span class="wprm-nutrition-label-text-nutrition-label  wprm-block-text-normal" style="color: #777777">Fat: </span><span class="wprm-nutrition-label-text-nutrition-value" style="color: #333333">17.3</span><span class="wprm-nutrition-label-text-nutrition-unit" style="color: #333333">g</span></span><span style="color: #777777"> | </span><span class="wprm-nutrition-label-text-nutrition-container wprm-nutrition-label-text-nutrition-container-saturated_fat"><span class="wprm-nutrition-label-text-nutrition-label  wprm-block-text-normal" style="color: #777777">Saturated Fat: </span><span class="wprm-nutrition-label-text-nutrition-value" style="color: #333333">8.7</span><span class="wprm-nutrition-label-text-nutrition-unit" style="color: #333333">g</span></span><span style="color: #777777"> | </span><span class="wprm-nutrition-label-text-nutrition-container wprm-nutrition-label-text-nutrition-container-polyunsaturated_fat"><span class="wprm-nutrition-label-text-nutrition-label  wprm-block-text-normal" style="color: #777777">Polyunsaturated Fat: </span><span class="wprm-nutrition-label-text-nutrition-value" style="color: #333333">1.2</span><span class="wprm-nutrition-label-text-nutrition-unit" style="color: #333333">g</span></span><span style="color: #777777"> | </span><span class="wprm-nutrition-label-text-nutrition-container wprm-nutrition-label-text-nutrition-container-monounsaturated_fat"><span class="wprm-nutrition-label-text-nutrition-label  wprm-block-text-normal" style="color: #777777">Monounsaturated Fat: </span><span class="wprm-nutrition-label-text-nutrition-value" style="color: #333333">6.2</span><span class="wprm-nutrition-label-text-nutrition-unit" style="color: #333333">g</span></span><span style="color: #777777"> | </span><span class="wprm-nutrition-label-text-nutrition-container wprm-nutrition-label-text-nutrition-container-cholesterol"><span class="wprm-nutrition-label-text-nutrition-label  wprm-block-text-normal" style="color: #777777">Cholesterol: </span><span class="wprm-nutrition-label-text-nutrition-value" style="color: #333333">64.6</span><span class="wprm-nutrition-label-text-nutrition-unit" style="color: #333333">mg</span></span><span style="color: #777777"> | </span><span class="wprm-nutrition-label-text-nutrition-container wprm-nutrition-label-text-nutrition-container-sodium"><span class="wprm-nutrition-label-text-nutrition-label  wprm-block-text-normal" style="color: #777777">Sodium: </span><span class="wprm-nutrition-label-text-nutrition-value" style="color: #333333">321.6</span><span class="wprm-nutrition-label-text-nutrition-unit" style="color: #333333">mg</span></span><span style="color: #777777"> | </span><span class="wprm-nutrition-label-text-nutrition-container wprm-nutrition-label-text-nutrition-container-fiber"><span class="wprm-nutrition-label-text-nutrition-label  wprm-block-text-normal" style="color: #777777">Fiber: </span><span class="wprm-nutrition-label-text-nutrition-value" style="color: #333333">1.9</span><span class="wprm-nutrition-label-text-nutrition-unit" style="color: #333333">g</span></span><span style="color: #777777"> | </span><span class="wprm-nutrition-label-text-nutrition-container wprm-nutrition-label-text-nutrition-container-sugar"><span class="wprm-nutrition-label-text-nutrition-label  wprm-block-text-normal" style="color: #777777">Sugar: </span><span class="wprm-nutrition-label-text-nutrition-value" style="color: #333333">0.7</span><span class="wprm-nutrition-label-text-nutrition-unit" style="color: #333333">g</span></span></div></div></div><p>The post <a href="https://www.foodbymaria.com/steak-tacos/">Juicy Cheesy Steak Tacos</a> appeared first on <a href="https://www.foodbymaria.com">FoodByMaria</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.foodbymaria.com/steak-tacos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
