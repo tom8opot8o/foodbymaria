@@ -37,16 +37,10 @@
     <category><![CDATA[<img src="https://tom8opot8o.github.io/foodbymaria/heart.jpg" alt="Heart" width="20" height="20"> Liked by 67,342 on Instagram]]></category>
     <guid isPermaLink="false">https://www.foodbymaria.com/?p=61179</guid>
     
-    <description><![CDATA[
-        <video width="600" controls>
-            <source src="https://www.foodbymaria.com/wp-content/uploads/2025/02/preparesteak.mp4" type="video/mp4">
-        </video>
-    ]]></description>
-    
     <content:encoded><![CDATA[
         <p>I love a good taco night! 🌮 Tacos are so easy to make, healthy, and versatile. I love that you can build your own and get even the pickiest of eaters on board with a taco night. These Steak Tacos are topped with juicy steak slices and melted cheese, and are the perfect tacos for an easy weeknight meal for the family.</p>
-        
-        <p>
+        <h3>Here's a glimpse fo what you're gonna need:</h3>
+	<p>
         <ul>
             <li>Steak</li>
             <li>Green Salsa</li>
@@ -58,6 +52,12 @@
         </ul>
         </p>
     ]]></content:encoded>
+	
+	<description><![CDATA[
+        <video width="600" controls>
+            <source src="https://www.foodbymaria.com/wp-content/uploads/2025/02/preparesteak.mp4" type="video/mp4">
+        </video>
+    ]]></description>
     
     <wfw:commentRss>https://www.foodbymaria.com/steak-tacos/feed/</wfw:commentRss>
     <slash:comments>0</slash:comments>
