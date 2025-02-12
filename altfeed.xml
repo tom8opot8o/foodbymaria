@@ -29,55 +29,51 @@
 	<height>32</height>
 </image> 
 <item>
-		<title>Juicy Cheesy Steak Tacos</title>
-		<link>https://www.foodbymaria.com/steak-tacos/</link>
-		<comments>https://www.foodbymaria.com/steak-tacos/#respond</comments>
-		<dc:creator><![CDATA[https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-6-1440x1863.jpg]]></dc:creator>
-		<pubDate>Mon, 10 Feb 2025 13:20:56 +0000</pubDate>
-		<category><![CDATA[All Recipes]]></category>
-		<category><![CDATA[30 Minute Meals]]></category>
-		<category><![CDATA[Gluten Free]]></category>
-		<category><![CDATA[Main Dishes]]></category>
-		<category><![CDATA[Meat]]></category>
-		<category><![CDATA[10 Ingredients Or Less]]></category>
-		<category><![CDATA[Sandwiches, Burgers & Toasts]]></category>
-		<category><![CDATA[Kid Friendly]]></category>
-		<guid isPermaLink="false">https://www.foodbymaria.com/?p=61179</guid>
-
-		<description><![CDATA[
-			<div style="text-align: center;">
-				<a href="https://www.foodbymaria.com/wp-content/uploads/2025/02/preparesteak.mp4">
-					<img src="https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-6-1440x1863.jpg" alt="Steak Tacos Video Preview" width="600" />
-				</a>
-				<p>Click the image above to watch how to make Juicy Cheesy Steak Tacos!</p>
-			</div>
-		]]></description>
-
-		<content:encoded><![CDATA[
-			<p>I love a good taco night! 🌮 Tacos are so easy to make, healthy, and versatile. I love that you can build your own and get even the pickiest of eaters on board with a taco night. These Steak Tacos are topped with juicy steak slices and melted cheese, and are the perfect tacos for an easy weeknight meal for the family.</p>
-			<p>Ingredients:</p>
-			<ul>
-				<li>Small Corn Tortillas</li>
-				<li>Shredded Monterey Jack Cheese</li>
-				<li>Steak</li>
-				<li>Garlic Powder</li>
-				<li>Kosher Salt</li>
-				<li>Ground Pepper</li>
-				<li>Onion Powder</li>
-				<li>Chili Powder</li>
-				<li>Oregano</li>
-				<li>Avocado Oil</li>
-				<li>Butter</li>
-				<li>Small White Onion</li>
-				<li>Fresh Cilantro</li>
-				<li>Green Salsa</li>
-				<li>Avocados (Optional)</li>
-			</ul>
-		]]></content:encoded>
-
-		<wfw:commentRss>https://www.foodbymaria.com/steak-tacos/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+    <title>Juicy Cheesy Steak Tacos</title>
+    <link>https://www.foodbymaria.com/steak-tacos/</link>
+    <comments>https://www.foodbymaria.com/steak-tacos/#respond</comments>
+    
+    <dc:creator><![CDATA[https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-6-1440x1863.jpg]]></dc:creator>
+    <pubDate>Mon, 10 Feb 2025 13:20:56 +0000</pubDate>
+    <category><![CDATA[All Recipes]]></category>
+    <category><![CDATA[30 Minute Meals]]></category>
+    <category><![CDATA[Gluten Free]]></category>
+    <category><![CDATA[Main Dishes]]></category>
+    <category><![CDATA[Meat]]></category>
+    <category><![CDATA[10 Ingredients Or Less]]></category>
+    <category><![CDATA[Sandwiches, Burgers & Toasts]]></category>
+    <category><![CDATA[Kid Friendly]]></category>
+    <guid isPermaLink="false">https://www.foodbymaria.com/?p=61179</guid>
+    
+    <description><![CDATA[
+        <a href="https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-1440x1440.jpg">
+            <img src="https://www.foodbymaria.com/wp-content/uploads/2025/02/Steak-Tacos-13-1440x1440.jpg" width="600" height="300" style="object-fit: cover;" alt="Steak Tacos Thumbnail">
+        </a>
+        <br>
+        <video width="600" controls>
+            <source src="https://www.foodbymaria.com/wp-content/uploads/2025/02/preparesteak.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    ]]></description>
+    
+    <content:encoded><![CDATA[
+        <p>I love a good taco night! 🌮 Tacos are so easy to make, healthy, and versatile. I love that you can build your own and get even the pickiest of eaters on board with a taco night. These Steak Tacos are topped with juicy steak slices and melted cheese, and are the perfect tacos for an easy weeknight meal for the family.</p>
+        
+        <p>
+        <ul>
+            <li>Steak</li>
+            <li>Green Salsa</li>
+            <li>Corn Tortillas</li>
+            <li>Monterey Jack Cheese</li>
+            <li>White Onion</li>
+            <li>Avocados (optional)</li>
+            <li>Sour Cream</li>
+        </ul>
+        </p>
+    ]]></content:encoded>
+    
+    <wfw:commentRss>https://www.foodbymaria.com/steak-tacos/feed/</wfw:commentRss>
+    <slash:comments>0</slash:comments>
 </item>
-
 	</channel>
 </rss>
